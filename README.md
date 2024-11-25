@@ -1,4 +1,4 @@
-# Job Scraper for Quantitative Roles
+# Job scraper for quantitative roles
 
 ## Overview
 
